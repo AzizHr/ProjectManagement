@@ -1,5 +1,5 @@
 package employees;
-
+// Employee Class
 public abstract class Employee {
 
     private String number;
